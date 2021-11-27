@@ -62,7 +62,7 @@ export default function Index() {
     <div className="remix__page">
       <main>
         <h2>🏁 Remix on Vercel is just awesome 🎉</h2>
-        <p>We're stoked that you're here. 🥳</p>
+        <p>We're stoked that you're here. 🚀</p>
         <p>
           Feel free to take a look around the code to see how Remix does things,
           it might be a bit different than what you’re used to. When you're
